@@ -1,2 +1,2 @@
 # MammographyDL
-This project is developped for the École Supérieure Polytechnique de Dakar. It's purpose is to create a a model using Deep Learning to automatically diagnose signs of breast cancer.
+This project is developped for the Laboratoire d'Imagerie Médicale et de Bio-Informatique at École Supérieure Polytechnique de Dakar. It's purpose is to create a a model using Deep Learning to automatically diagnose signs of breast cancer. In a first part, we will work on the BDIS-DDSM dataset with cropped images available on this link : https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM#6509f30b65b643a0a07db35884fe204c .
