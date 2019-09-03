@@ -1,6 +1,7 @@
 # Mammography Diagnosis with Deep Learning
 
 This project is developped for the Laboratoire d'Imagerie Médicale et de Bio-Informatique at École Supérieure Polytechnique de Dakar. It's purpose is to create a model using Deep Learning to automatically diagnose signs of breast cancer. We will work on the CBIS-DDSM dataset with cropped images available on this [link](https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM#b674062e551748f28134c7bde344094f%20dd).
+You can find all the code in the file project.ipynb .
 
 The project and data are organized by this way :
 
